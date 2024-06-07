@@ -1,1 +1,1 @@
-# Bitcoin_price_prediction
+The Bitcoin Price Prediction Model was developed to predict Bitcoin prices using the XGBoost algorithm. This model processes historical price data and other relevant features to forecast future Bitcoin prices, providing valuable insights for investors. By leveraging the power of XGBoost, the model ensures high accuracy and robust predictions through gradient boosting techniques.
